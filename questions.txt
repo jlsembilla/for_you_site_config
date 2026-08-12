@@ -1,7 +1,7 @@
 [
 {
-  "question": "What is my favorite color?",
-  "answers": ["Pink", "Blue", "Green"],
-  "correctAnswer": "Pink"
+  "question": "Anong favorite food ko?",
+  "answers": ["Sinigang", "Sisig", "Adobo"],
+  "correctAnswer": "Adobo"
 }
 ]
