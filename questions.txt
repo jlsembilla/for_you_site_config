@@ -3,5 +3,50 @@
   "question": "Anong favorite food ko?",
   "answers": ["Sinigang", "Sisig", "Adobo"],
   "correctAnswer": "Adobo"
+},
+{
+  "question": "What's my favorite color??",
+  "answers": ["Blue", "Yellow", "Red"],
+  "correctAnswer": "Blue"
+},
+{
+  "question": "Anong mas prefer kong pet?",
+  "answers": ["Cat", "Bird", "Dog"],
+  "correctAnswer": "Dog"
+},
+{
+  "question": "What's my comfort food after an exhausting day?",
+  "answers": ["Pizza", "Ice Cream", "Burger"],
+  "correctAnswer": "Ice Cream"
+},
+{
+  "question": "What do you think is my fashion vibe?",
+  "answers": ["Streetwear", "Cozy neutral", "Clean minimal"],
+  "correctAnswer": "Cozy neutral"
+},
+{
+  "question": "Anong genre ng movie ang pinaka want ko?",
+  "answers": ["Comedy", "Horror", "Romance"],
+  "correctAnswer": "Horror"
+},
+{
+  "question": "My favorite way to waste time?",
+  "answers": ["Bed rot", "Play games", "Watch a movie"],
+  "correctAnswer": "Play games"
+},
+{
+  "question": "Ano sa tingin mo gagawin ko kapag nanalo ako sa lotto?",
+  "answers": ["Travel the world", "Buy a dream house", "Help family & donate"],
+  "correctAnswer": "Travel the world"
+},
+{
+  "question": "Scent I love the most?",
+  "answers": ["Sweet Candy", "Manly", "Sweet Flowerly"],
+  "correctAnswer": "Sweet Candy"
+},
+{
+  "question": "What's my favorite song?",
+  "answers": ["Ikaw Lamang", "Multo", "Panata"],
+  "correctAnswer": "Panata"
 }
 ]
