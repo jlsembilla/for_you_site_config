@@ -1,0 +1,7 @@
+[
+{
+  "question": "What is my favorite color?",
+  "answers": ["Pink", "Blue", "Green"],
+  "correctAnswer": "Pink"
+}
+]
