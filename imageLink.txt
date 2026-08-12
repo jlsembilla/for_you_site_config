@@ -1,27 +1,27 @@
 [
 {
     "src": "https://drive.google.com/thumbnail?id=1Mw4iClFtFl0sOCn9fApgaNc4om92G4t3",
-	"title": "Luke Chesser",
-	"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus maiores accusantium cumque atque? Ex voluptatem quisquam temporibus. Provident rerum quae nemo eligendi fugiat!"
+	"title": "Thank you!",
+	"description": "Salamat mahal sa lahat ng effort, oras, love, and doing great sa relationship natiiin! Maraming salamat kasi hindi ka napagod na intindihin ako. 💖"
 },
 {
     "src": "https://drive.google.com/thumbnail?id=1BPWpV_udafhVj8BWwDZtHL-6_pgfWYM_",
-	"title": "Luke Chesser",
-	"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus maiores accusantium cumque atque? Ex voluptatem quisquam temporibus. Provident rerum quae nemo eligendi fugiat!"
+	"title": "Lagi-lagi",
+	"description": "Kahit sa mga pagkakataon na hindi ako kaintindi-intindi. Magulo man kausap minsan kasi madalas sabog pero salamat sa pag-unawa. Salamat kasi nandiyan ka."
 },
 {
-    "src": "https://drive.google.com/thumbnail?id=16GYT_oee3yAjmO7Ci49PxO4PzQSrSnTu",
-	"title": "Luke Chesser",
-	"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus maiores accusantium cumque atque? Ex voluptatem quisquam temporibus. Provident rerum quae nemo eligendi fugiat!"
+    "src": "https://drive.google.com/thumbnail?id=1FlwWYUajMgh9AelvFdkMRo9AWASwaEmu",
+	"title": "Nandiyan ka",
+	"description": "Nandiyan ka sa mga araw na pakiramdam ko walang kayang umintindi. Nandiyan ka sa araw na gusto kong gumala, my one call away person. Salamat po sobra!"
 },
 {
     "src": "https://drive.google.com/thumbnail?id=1pHiiKNYiEsQE6jxJBF49382FV1ilHrEJ",
-	"title": "Luke Chesser",
-	"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus maiores accusantium cumque atque? Ex voluptatem quisquam temporibus. Provident rerum quae nemo eligendi fugiat!"
+	"title": "Patawad",
+	"description": "Sorry rin mahal kung minsan marami akong ginagawang hindi mo gusto. Minsan talaga tanga ako HAHAHHAHA Pero sana mapatawad mo ako, I might make you feel unlove sometimes pero mahal kita."
 },
 {
     "src": "https://drive.google.com/thumbnail?id=1HBGmOZbhrYA1TgHjTTbo74jdTAWlvK-e",
-	"title": "Luke Chesser",
-	"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus maiores accusantium cumque atque? Ex voluptatem quisquam temporibus. Provident rerum quae nemo eligendi fugiat!"
+	"title": "Minsan",
+	"description": "Kahit na minsan tayo ay nagtatalo basta sa dulo ng araw tayo naman ay nagkakasundo. May mga bagay man tayong magka-iba pero sa ganon kitang mas nakikilala. Eyyyy barss HAHAHAHHAHA 😘"
 }
 ]
